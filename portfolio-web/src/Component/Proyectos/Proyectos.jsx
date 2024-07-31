@@ -8,6 +8,7 @@ import imgSeis from '../../assets/img6.jpg'
 import imgProyReal from '../../assets/proyectoReal.jpg'
 import imgSiete from '../../assets/img7.jpg'
 
+
 function Proyectos() {
     return (
         < >

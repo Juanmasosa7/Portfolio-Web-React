@@ -4,7 +4,7 @@ import { Box, Button, Input , FormControl , Heading, Link} from '@chakra-ui/reac
 function Contacto() {
     return (
         <>
-            <Box maxW="md" mx="auto" p={6} borderWidth={1} borderRadius="lg" id="contacto" w="100%" py="40px">
+            <Box maxW="md" mx="auto" p={6} borderWidth={1} borderRadius="lg" id="contacto" w="100%" py="40px" mb="20px">
                 <Heading color="rgb(65,112,245)" textDecoration="underline rgb(65,112,245)" textAlign="center" pb="40px">Contacto</Heading>
                 <form action="">
                     <FormControl id="name" isRequired mb={4}>

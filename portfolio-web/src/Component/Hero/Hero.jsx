@@ -1,5 +1,5 @@
 import './Hero.css'
-import {Image,Button, Box, Flex, Link, } from '@chakra-ui/react'
+import {Image,Button, Box, Flex, Link } from '@chakra-ui/react'
 import { FaBehance, FaGithub , FaLinkedinIn  } from 'react-icons/fa';
 import imgHero from '../../assets/imgHero.jpg'
 
@@ -36,17 +36,17 @@ function Hero() {
                             </Box>
                             <Box as='section'>
                                 <Flex flexWrap="wrap" textAlign="center" my="40px">
-                                    <Link href="https://www.linkedin.com/in/juan-manuel-sosa-4a2767309/" target="_blank" pr="30px"  color="#0f2434" >
-                                    <Button leftIcon={<FaLinkedinIn  />} colorScheme="" variant="solid" fontSize="20px" transition='color 1s'
+                                    <Link href="https://www.linkedin.com/in/juan-manuel-sosa-4a2767309/" target="_blank" pr="30px"  >
+                                    <Button leftIcon={<FaLinkedinIn  />} colorScheme="" variant="solid" fontSize="20px" transition='color 1s' color="#0f2434"
                                         _hover={{color:"rgb(65,112,245)",}}></Button>
                                     </Link>
-                                    <Link href="https://www.behance.net/juanmanuelsosa2" target="_blank" pr="30px" transition="color 1s" color="#0f2434">
-                                    <Button leftIcon={<FaBehance />} colorScheme="" variant="solid" fontSize="20px" transition='color 1s'
+                                    <Link href="https://www.behance.net/juanmanuelsosa2" target="_blank" pr="30px" transition="color 1s" >
+                                    <Button leftIcon={<FaBehance />} colorScheme="" variant="solid" fontSize="20px" transition='color 1s' color="#0f2434"
                                         _hover={{color:"rgb(65,112,245)",}}></Button>
                                     </Link>
 
-                                    <Link href="https://github.com/Juanmasosa7" target="_blank" pr="30px" transition="color 1s" color="#0f2434">
-                                    <Button leftIcon={<FaGithub  />} colorScheme="" variant="solid" fontSize="20px" transition='color 1s'
+                                    <Link href="https://github.com/Juanmasosa7" target="_blank" pr="30px" transition="color 1s" >
+                                    <Button leftIcon={<FaGithub  />} colorScheme="" variant="solid" fontSize="20px" transition='color 1s' color="#0f2434"
                                         _hover={{color:"rgb(65,112,245)",}}></Button>
                                     </Link>
                                 </Flex>    
@@ -63,3 +63,4 @@ function Hero() {
     )
 }
 export default Hero
+
