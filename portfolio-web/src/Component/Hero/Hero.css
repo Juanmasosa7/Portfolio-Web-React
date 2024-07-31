@@ -1,0 +1,83 @@
+/* .hero{
+    height: 70vh;
+    padding: 0 0 70px 0;
+}
+
+.grupo-Hero{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding: 50px 0 0 0;
+}
+
+.contenedorHero{
+    display: flex;
+    flex-direction:column;
+}
+
+.contenedorHero h1{
+    font-size: 45px;
+    padding: 10px 0px;
+}
+
+.palabraColor{
+    color: rgb(65,112,245);
+}
+
+.boton-hero{
+    padding: 40px 0 0 0;
+}
+
+.imgPortada{
+    width: 400px;
+    padding: 0 35px 0 0;
+}
+
+.iconos-hero{
+    padding: 60px 0;
+}
+
+.iconos-posicion{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 40px 0 0 0;
+}
+
+.ico-footer-posicion{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(15 36 52);
+}
+
+.iconos{
+    padding: 0 30px 0 0;
+    transition: color 1s;
+    color: #0f2434
+}
+
+.iconos:hover{
+    color: rgb(65,112,245);
+}
+
+.tamanio-hero{
+    font-size: 20px;
+}
+
+button{
+    background-color: rgb(65,112,245);
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 32px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: 1s;
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 17px rgba(0, 0, 0, 0.5);
+} */

@@ -1,0 +1,36 @@
+/* .footer{
+    background-color: rgb(15 36 52);
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer h2{
+    color: white;
+    margin: 20px 0;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(15 36 52);
+}
+
+.ico-footer-posicion{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(15 36 52);
+}
+
+.iconos-footer{
+    padding: 25px 15px;
+    background-color: rgb(15 36 52);
+}
+
+.derechos{
+    text-align: center;
+    color: rgb(161, 161, 161);
+    margin: 15px 0;
+    background-color: rgb(15 36 52);
+} */

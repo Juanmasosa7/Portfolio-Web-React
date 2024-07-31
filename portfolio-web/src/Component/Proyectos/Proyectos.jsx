@@ -23,7 +23,7 @@ function Proyectos() {
                             transform:"scale(1.05)",
                         }}>
                         <Link href="">
-                            <Image src={imgTres} alt='Hero' width="100%" borderRadius="10px" />
+                            <Image src={imgTres} alt='Proyecto 1' width="100%" borderRadius="10px" />
                         </Link>
                     </Box>
                     <Box m="10px" textAlign="center" flexBasis={{base: '70%', sm:'100%', md: '50%', lg: '30%', xl:'30%', '2xl':'30%'}} boxShadow="-2px 1px 16px 0px rgb(209 209 209)" borderRadius="10px" transition="transform 0.7s" 
@@ -32,7 +32,7 @@ function Proyectos() {
                             transform:"scale(1.05)",
                         }}>
                         <Link href="">
-                            <Image src={imgCuatro} alt='Hero' width="100%" borderRadius="10px" />
+                            <Image src={imgCuatro} alt='Proyecto 2' width="100%" borderRadius="10px" />
                         </Link>
                     </Box>
                     <Box m="10px" textAlign="center" flexBasis={{base: '70%', sm:'100%', md: '50%', lg: '30%', xl:'30%', '2xl':'30%'}} boxShadow="-2px 1px 16px 0px rgb(209 209 209)" borderRadius="10px" transition="transform 0.7s" 
@@ -41,7 +41,7 @@ function Proyectos() {
                             transform:"scale(1.05)",
                         }}>
                         <Link href="">
-                            <Image src={imgCinco} alt='Hero' width="100%" borderRadius="10px" />
+                            <Image src={imgCinco} alt='Proyecto 3' width="100%" borderRadius="10px" />
                         </Link>
                     </Box>
                     <Box m="10px" textAlign="center" flexBasis={{base: '70%', sm:'100%', md: '50%', lg: '30%', xl:'30%', '2xl':'30%'}} boxShadow="-2px 1px 16px 0px rgb(209 209 209)" borderRadius="10px" transition="transform 0.7s" 
@@ -50,7 +50,7 @@ function Proyectos() {
                             transform:"scale(1.05)",
                         }}>
                         <Link href="">
-                            <Image src={imgSeis} alt='Hero' width="100%" borderRadius="10px" />
+                            <Image src={imgSeis} alt='Proyecto 4' width="100%" borderRadius="10px" />
                         </Link>
                     </Box>
                     <Box m="10px" textAlign="center" flexBasis={{base: '70%', sm:'100%', md: '50%', lg: '30%', xl:'30%', '2xl':'30%'}} boxShadow="-2px 1px 16px 0px rgb(209 209 209)" borderRadius="10px" transition="transform 0.7s" 
@@ -59,7 +59,7 @@ function Proyectos() {
                             transform:"scale(1.05)",
                         }}>
                         <Link href="https://juanmasosa7.github.io/ProyectoFinal-SosaJuan/" target="_blank">
-                            <Image src={imgProyReal} alt='Hero' width="100%" borderRadius="10px" />
+                            <Image src={imgProyReal} alt='Pagina Web Melaquitas' width="100%" borderRadius="10px" />
                         </Link>
                     </Box>
                     <Box m="10px" textAlign="center" flexBasis={{base: '100%', sm:'100%', md: '50%', lg: '30%', xl:'30%', '2xl':'30%'}} boxShadow="-2px 1px 16px 0px rgb(209 209 209)" borderRadius="10px" transition="transform 0.7s" 
@@ -68,7 +68,7 @@ function Proyectos() {
                             transform:"scale(1.05)",
                         }}>
                         <Link href="">
-                            <Image src={imgSiete} alt='Hero' width="100%" borderRadius="10px" />
+                            <Image src={imgSiete} alt='Proyecto 5' width="100%" borderRadius="10px" />
                         </Link>
                     </Box>
                 </Flex>

@@ -1,0 +1,39 @@
+/* .contacto{
+    width: 100%;
+    padding: 40px 0;
+}
+
+.contacto h2{
+    font-size: 30px;
+    color: rgb(65,112,245);
+    text-decoration: underline rgb(65,112,245);
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.form-nombre, .form-email{
+    padding: 7px 40px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 7px;
+}
+
+.form-texto{
+    padding: 60px 40px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 7px;
+    text-align: justify;
+    size: 50px;
+}
+
+.boton-contacto{
+    margin: 20px 0 0 175px;
+} */

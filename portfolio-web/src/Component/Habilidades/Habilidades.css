@@ -1,0 +1,104 @@
+/* .habilidades {
+    width: 100%;
+    padding: 40px 0;
+}
+
+.habilidades h2{
+    font-size: 30px;
+    color: rgb(65,112,245);
+    text-decoration: underline rgb(65,112,245);
+    text-align: center;
+}
+
+.contenedorHabilidades{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.grupoHabilidades{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding: 0 40px 0 0;
+}
+
+.contenedorHabilidades .grupoHabilidades h3{
+    margin:0 0 15px 0;
+}
+
+.contenedorHabilidades .grupoHabilidades .texto-habilidades{
+    margin:0 0 30px 0;
+}
+
+.contenedorHabilidades .grupoHabilidades p{
+    margin:0 0 15px 0;
+}
+
+.habilidades-main{
+    width: 100%;
+    display: grid;
+    grid-column-gap: 50px;
+    grid-row-gap: 25px;
+}
+
+.habilidades-bar{
+    box-shadow: 0px 0px 16px 0px rgb(209 209 209);
+}
+
+.habilidades-main .habilidades-bar .habilidades-info p{
+    font-weight: bold;
+    padding: 0 0 0 12px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.habilidades-iconos{
+    display: flex;
+}
+
+.tamanio{
+    font-size: 27px;
+}
+
+.habilidades-main .habilidades-bar .habilidades-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px 0 15px;
+}
+
+.habilidades-bar .bar{
+    width: 100%;
+    height: 5px;
+    position: relative;
+    margin-top: 5px;
+}
+
+.habilidades-bar .bar span{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    background-color: rgb(65,112,245);
+}
+
+.habilidades-bar .bar .html-bar{
+    width: 85%;
+}
+.habilidades-bar .bar .css-bar{
+    width: 75%;
+}
+.habilidades-bar .bar .js-bar{
+    width: 50%;
+}
+.habilidades-bar .bar .python-bar{
+    width: 80%;
+}
+
+.img-habilidades img{
+    width: 400px;
+    border-radius: 7px;
+    padding: 0 50px 0 10px;
+} */

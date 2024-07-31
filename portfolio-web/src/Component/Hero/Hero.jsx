@@ -52,8 +52,8 @@ function Hero() {
                                 </Flex>    
                             </Box>
                         </Flex>
-                    <Image src={imgHero} alt='Hero' 
-                    w={{base: '270px', sm:'270px', md: '320px', lg: '420px', xl:'420px', '2xl':'520px'}} 
+                    <Image src={imgHero} alt='Foto portada mia' 
+                    w={{base: '280px', sm:'280px', md: '330px', lg: '430px', xl:'430px', '2xl':'530px'}} 
                     h={{base: '250px', sm:'250px', md: '300px', lg: '400px', xl:'400px', '2xl':'500px'}} 
                     pr="35px"
                     display={{base: 'none', sm:'none', md: 'block', lg: 'block', xl:'block', '2xl':'block'}}/>
