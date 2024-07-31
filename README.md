@@ -13,6 +13,6 @@
 </p>
 
 <h4> Espero le guste mi Proyecto!! 😀</h4>
-<p> Deploy hecho en Vercel </p>
+<p> Deploy hecho en Vercel: https://portfolio-web-react-chi.vercel.app/ </p>
 
 </ul>
